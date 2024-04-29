@@ -1,0 +1,10 @@
+Prompts:
+
+CHATGPT:
+	> Crie 10 headlines para nomes de artigos sobre o assunto SQL - Banco de Dados;
+	> Faça um texto para ebook , com foco em SQL, listando os principais funçoes SQL com exemplos em código {REGRAS} Explique 	sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um 	título sugestivo por tópico
+	> Faça uma breve introdução ao Ebook: Explorando as Funções Essenciais do SQL
+
+COPILOT DESIGN:
+	> Ancient Greek using an ancient computer, epic ancient greece style, gold/orange lights
+
